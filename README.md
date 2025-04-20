@@ -6,4 +6,6 @@
 
 [the animals one](mod5-2)   &nbsp;&nbsp;
 
+[the rat one](nested-repeats) &nbsp;&nbsp;
 
+[The monkey one](events) &nbsp;&nbsp;s
