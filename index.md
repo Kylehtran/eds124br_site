@@ -8,4 +8,6 @@
 
 [the rat one](nested-repeats) &nbsp;&nbsp;
 
-[The monkey one](events) &nbsp;&nbsp;s
+[The monkey one](events) &nbsp;&nbsp;
+
+[Variables](variables) &nbsp;&nbsp;
