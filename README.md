@@ -15,3 +15,7 @@
 [Conditions](conditions) &nbsp;&nbsp;
 
 [If Else](ifelse)
+
+[Nested If Else](nestedifelse)
+
+[Compound Conditoinals](compoundconditionals)
