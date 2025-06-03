@@ -19,3 +19,7 @@
 [Nested If Else](nestedifelse)
 
 [Compound Conditoinals](compoundconditionals)
+
+[Functoins](functions)
+
+[Lists](lists)
